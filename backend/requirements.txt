@@ -1,0 +1,9 @@
+##
+SpeechRecognition==3.8.1  # For speech-to-text functionality
+PyAudio==0.2.11  # Required for microphone access in SpeechRecognition
+python-dotenv==1.0.0  # For loading environment variables
+pyttsx3==2.90  # For text-to-speech conversion
+google-generativeai # For Google Generative AI (Gemini) integration
+# portaudio19-dev
+fastapi 
+uvicorn
