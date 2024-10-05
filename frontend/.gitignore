@@ -6,6 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+google-chrome-stable_current_amd64.deb
 
 node_modules
 dist
